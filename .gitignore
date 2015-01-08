@@ -1,6 +1,7 @@
 #https://github.com/github/gitignore/blob/master/Android.gitignore
 #jan 8 2015
 
+*~
 # Built application files
 *.apk
 *.ap_
